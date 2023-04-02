@@ -1,6 +1,10 @@
-This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
+# ChatGPT to screenshot, PDF or print
+
+Browser (Chrome, Firefox, Edge) extension to prepare ChatGPT for full page screenshot, PDF or print
 
 ## Getting Started
+
+This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 First, run the development server:
 
