@@ -2,6 +2,12 @@
 
 Browser (Chrome, Firefox, Edge) extension to prepare ChatGPT for full page screenshot, PDF or print
 
+[Chrome Web Store](https://chrome.google.com/webstore/detail/engccebockgjjiahbndcgjimemjgpbbl/)
+
+[Add-ons for Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-screenshot-pdf-print/)
+
+<!-- [Microsoft Edge Add-ons]() -->
+
 ## Getting Started
 
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
