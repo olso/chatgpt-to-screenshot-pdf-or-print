@@ -1,9 +1,10 @@
 {
-  "name": "chat-gpt-to-pdf",
-  "displayName": "Chat gpt to pdf",
+  "name": "chatgpt-to-screenshot-pdf-or-print",
+  "displayName": "ChatGPT to screenshot, PDF or print",
   "version": "0.0.1",
-  "description": "Capture/screenshot full page ChatGPT conversation to PDF",
-  "author": "olso",
+  "description": "Prepare ChatGPT for full page screenshot, PDF or print",
+  "author": "olso <olsansky.martin@gmail.com>",
+  "contributors": ["olso"],
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",
@@ -25,7 +26,7 @@
   },
   "manifest": {
     "host_permissions": [
-      "https://chat.openai.com/chat/*/*"
+      "https://chat.openai.com/*"
     ]
   }
 }
