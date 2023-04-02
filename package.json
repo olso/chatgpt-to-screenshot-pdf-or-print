@@ -4,7 +4,9 @@
   "version": "0.0.1",
   "description": "Prepare ChatGPT for full page screenshot, PDF or print",
   "author": "olso <olsansky.martin@gmail.com>",
-  "contributors": ["olso"],
+  "contributors": [
+    "olso"
+  ],
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",
@@ -26,8 +28,6 @@
     "@plasmohq/prettier-plugin-sort-imports": "3.6.3"
   },
   "manifest": {
-    "host_permissions": [
-      "https://chat.openai.com/*"
-    ]
+    "host_permissions": []
   }
 }
